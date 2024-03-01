@@ -19,7 +19,10 @@ let isLoggedIn = true
 console.log(isLoggedIn)
 
 console.log('------')
-//  Null
+//  Null --> using Sapce
 let lastLoginDate = null;
 console.log(lastLoginDate)
 
+//  Undefined --> not using Space
+let midLoginDate = undefined;
+console.log(midLoginDate)
