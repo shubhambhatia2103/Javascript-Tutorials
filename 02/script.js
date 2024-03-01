@@ -48,5 +48,3 @@ console.log("------")
 const abc = 100;
 
 console.log(abc + 50);
-
-
