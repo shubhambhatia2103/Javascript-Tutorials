@@ -61,7 +61,7 @@ Before diving into these tutorials, ensure you have the following prerequisites 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
 
 ## Acknowledgements
