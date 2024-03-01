@@ -30,17 +30,17 @@ This repository serves as my personal learning journal as I progress through Piy
 ## File Structure
 The files in this repository are named numerically to reflect the order of tutorials followed from the "Ultimate JavaScript Tutorials" playlist. Each file contains code examples discussed in the tutorial video, accompanied by short key notes related to the topic within the code.
 
-Ultimate-javascript-tutorials/
+`Ultimate-javascript-tutorials/`
 
 │
 
-├── 01.js
+├── ``01.js``
 
-├── 02.js
+├── ``02.js``
 
-├── 03.js
+├── ``03.js``
 
-├── ...
+├── ``...``
 
 ## Key Features
 
