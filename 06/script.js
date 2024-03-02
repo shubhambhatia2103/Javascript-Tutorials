@@ -12,5 +12,17 @@ let house = 50
 
 while (ip != house){
     ip = ip + 1;
-    console.log('Step Taken' + ip)
+    console.log('Step Taken' )
 }
+
+
+// do {
+//     code block to be executed
+//   }
+//   while (condition);
+
+let test = 1;
+do {
+	console.log(test);
+	test++;
+} while(test<=5)
