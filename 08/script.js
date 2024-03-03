@@ -29,3 +29,24 @@ const addNumbers = (...nums) => {
 addNumbers(12, 13, 14, 15);
 
 //  3. Hoisting
+//  means call first define later 
+//  saves the functions in memory
+
+// sayHey();
+// function sayHey(){
+//     console.log('Hello Jii!');
+// }
+
+const sayHey = () => {
+    console.log('Hello Jii!');
+}
+sayHey();
+
+//  4. This Keyword
+const obj = {
+    value: 20,
+    myFunction: function() {
+        console.log(this.value);
+    },
+};
+obj.myFunction();
