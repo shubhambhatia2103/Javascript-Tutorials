@@ -6,7 +6,7 @@ Welcome to my repository where I document my journey from learning the basics to
 
 ## Introduction
 
-This repository serves as my personal learning journal as I progress through [Piyush Goyal's comprehensive JavaScript tutorials](https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv). Each file corresponds to a specific tutorial video from the playlist, with the file names structured numerically (01, 02, 03, etc.) to align with the tutorial sequence and my personal notes summarizing key concepts.
+This repository serves as my personal learning journal as I progress through [Piyush Garg's comprehensive JavaScript tutorials](https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv). Each file corresponds to a specific tutorial video from the playlist, with the file names structured numerically (01, 02, 03, etc.) to align with the tutorial sequence and my personal notes summarizing key concepts.
 ## How to Use
 
 - Each JavaScript file is named according to the corresponding tutorial video from the playlist.
@@ -66,7 +66,7 @@ If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
 ## Acknowledgements
 
- - [Playlist: Ultimate JavaScript Tutorials by Piyush Goyal](https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv)
+ - [Playlist: Ultimate JavaScript Tutorials by Piyush Garg](https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv)
  - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [JavaScript.info : Comprehensive JavaScript tutorials and guides](https://javascript.info/)
 
