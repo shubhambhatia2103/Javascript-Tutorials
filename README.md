@@ -48,7 +48,7 @@ The files in this repository are named numerically to reflect the order of tutor
 -   **Code Samples :** Access comprehensive code examples for each tutorial topic.
 -   **Concise Notes :** Find succinct notes within the code to reinforce key concepts.
 -   **Valuable Resources :** Explore additional learning resources to deepen your understanding.
--   **Community Contributions :** Contribute to the repository by suggesting improvements or reporting issues.
+
 ## Prerequisites
 Before diving into these tutorials, ensure you have the following prerequisites installed:
 
