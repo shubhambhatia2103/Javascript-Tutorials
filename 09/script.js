@@ -12,3 +12,16 @@ function add(a, b, cb){
 
 add(2, 4, (val) => console.log(val));
 add(5, 5, (res) => console.log(res));
+
+
+console.log("---------")
+
+function addNumbers(a, b, cb){
+    let result = a + b;
+    cb(result);
+
+    return () => console.log(result);
+}
+
+let resultFunction = addNumbers(2, 4, () => {});
+resultFunction();
