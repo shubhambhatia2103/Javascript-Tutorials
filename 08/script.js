@@ -22,7 +22,10 @@ console.log(add(3, 3));
 //  2. 'arguments' keywords
 //  access multiple arguments
 
+// Spread Operator -->  " ... "
 const addNumbers = (...nums) => {
     console.log(nums);
 }
-addNumbers(12, 13, 14, 15)
+addNumbers(12, 13, 14, 15);
+
+//  3. Hoisting
