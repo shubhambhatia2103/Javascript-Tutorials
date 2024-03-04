@@ -8,8 +8,16 @@ console.log(students[2]);
 
 students.push('Alexa');
 students.push('Ola');
+students.pop();
+students.reverse();
 console.log(students);
 
 //  Heterogeneous
-const myArrays = [1, true, 'Shubham']
-console.log(myArrays)
+const myArrays = [1, true, 'Shubham', '🚀']
+
+//having object inside Arrays
+myArrays.push({name: 'Rocket'});
+console.log(myArrays);
+
+//  To find index of element
+console.log(myArrays.indexOf('🚀'))
