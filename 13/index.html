@@ -15,16 +15,25 @@
         <pre><code>console.log('Hey there')</code></pre>
     </div>
         <script>
-            //  query selector
+            //  query selector - First Element
             /*
             Selectors
             - tag name
             - id #
             - class
             */
-           const body = document.querySelector("body");
-        //    body.innerHTML = "<h1>Hacked!! </h1>";
-           console.log(body.innerHTML)
+//  tag name
+        //    const body = document.querySelector("body");
+        // //    body.innerHTML = "<h1>Hacked!! </h1>";
+        //    console.log(body.innerHTML)
+
+        //    const div = document.querySelector("div")
+        //    div.innerHTML = "<h1>Hacked Hogya</h1>"
+        //    console.log(div.innerHTML)
+
+//  id #
+        const username = document.querySelector('#username');
+        username.innerText = "John Doe";
         </script>
 </body>
 </html>
