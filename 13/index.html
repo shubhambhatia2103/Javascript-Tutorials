@@ -20,7 +20,7 @@
             Selectors
             - tag name
             - id #
-            - class
+            - class .
             */
 //  tag name
         //    const body = document.querySelector("body");
@@ -32,8 +32,21 @@
         //    console.log(div.innerHTML)
 
 //  id #
-        const username = document.querySelector('#username');
-        username.innerText = "John Doe";
+/*          use innerHTML only to enter code with in a html code
+            for a text use innerText
+
+*/
+
+        // const username = document.querySelector('#username');
+        // username.innerText = "John Doe";
+
+//  class .
+            const ele = document.querySelector(".paragraph");
+            console.log(ele.innerHTML);
+
+// children
+            const ELE = document.querySelector("div")
+            console.log(ELE.children)
         </script>
 </body>
 </html>
