@@ -45,8 +45,13 @@
             console.log(ele.innerHTML);
 
 // children
-            const ELE = document.querySelector("div")
-            console.log(ELE.children)
+            // const ELE = document.querySelector("div")
+            // console.log(ELE.children)
+
+            const ELE = document.querySelectorAll(".block")
+            ELE.forEach((e) => {
+                console.log(e.innerHTML);
+            });
         </script>
 </body>
 </html>
